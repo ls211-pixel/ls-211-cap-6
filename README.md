@@ -17,6 +17,7 @@ The main purpose of this study is to predict if anyone is in critical condition 
 7. **Evaluation of Machine Learning Methods for Diagnosing Heart Disease** – H. T. Dang
 8. **Predicting Heart Disease Using Hybrid Machine Learning Models** – S. M. A. Tabesh
 9. **Feature Selection Techniques in Machine Learning with Applications to Health Data** – H. S. Saeed
+    
 In the present advantage of machine learning in this medical world, it has been shown by current research. It shows or found that there are several models, such as neural network models, random forests, decision tree models, and logistic regression, that may significantly enhance the precision of the heart prediction. Methods like deep learning and feature selection combined in hybrid approaches have shown prospects in enhancing cardiac heart diagnostic reliability. For this purpose, we need to determine the best possible prediction technique. It shows multiple classifiers on a single data set based on previous findings.
 
 ## Objectives and Goals
