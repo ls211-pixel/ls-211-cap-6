@@ -4,7 +4,7 @@
 In the present generation, most people are working hard and neglecting their health, leading to various health issues such as heart diseases and lung diseases. Heart disease has become one of the leading causes of mortality in both men and women. The application of machine learning techniques in medical examinations can significantly enhance the accuracy of disease prediction. This study explores how machine learning and deep learning techniques can be used to predict heart diseases.
 
 ## Problem Definition
-The goal of this study is to predict whether an individual is at risk of being diagnosed with heart disease, requiring quick detection and management. Machine learning and deep learning provide effective solutions by analyzing patient data and identifying those at higher risk. Various classification models in machine learning help to classify cardiac diseases efficiently.
+The main purpose of this study is to predict if anyone is in critical condition for being diagnosed as a patient, for which it needs a quick detection and management. For that, machine learning and deep learning could be a great solution for this problem. This study helps us to research or to develop a model for cardiovascular diseases like heart disease by the use of algorithms in machine learning. We need to collect or to do research to collect the patient data by identifying different people having more rate of heart disease.By various models like machine learning, the classification of the cardiac disease will be solved.
 
 ## Context and Background
 ### Relevant Studies:
@@ -17,6 +17,7 @@ The goal of this study is to predict whether an individual is at risk of being d
 7. **Evaluation of Machine Learning Methods for Diagnosing Heart Disease** – H. T. Dang
 8. **Predicting Heart Disease Using Hybrid Machine Learning Models** – S. M. A. Tabesh
 9. **Feature Selection Techniques in Machine Learning with Applications to Health Data** – H. S. Saeed
+In the present advantage of machine learning in this medical world, it has been shown by current research. It shows or found that there are several models, such as neural network models, random forests, decision tree models, and logistic regression, that may significantly enhance the precision of the heart prediction. Methods like deep learning and feature selection combined in hybrid approaches have shown prospects in enhancing cardiac heart diagnostic reliability. For this purpose, we need to determine the best possible prediction technique. It shows multiple classifiers on a single data set based on previous findings.
 
 ## Objectives and Goals
 - Develop and assess machine learning models for heart disease prediction.
@@ -24,9 +25,11 @@ The goal of this study is to predict whether an individual is at risk of being d
 - Utilize optimization methods like Grid Search and Random Search.
 - Preprocess and clean the dataset for enhanced model performance.
 - Ensure transparency in healthcare applications, particularly for heart disease predictions.
+The main motto of this project is to create and assess the prediction of heart diseases from different models like machine learning and deep learning.This also explores different classification techniques such as SVM, KNN, ANN, decision trees, and random forests that will be conducted. For this heart disease, we also need to use different optimization performance methods like grid search, as well as random search, which will be perfect for this model. Especially for dataset we need to use the Preprocess to improve the quality of data,cleaning the data,Need to remove errors from dataset,missing values etc…Transparency is very important when it comes to health care, especially in heart disease, because it plays a major key role in prediction.
 
 ## Summary of Approach
 This research employs machine learning and deep learning techniques to predict cardiovascular diseases. Feature selection methods are used to improve model accuracy. Classification models such as ANN, SVM, KNN, Decision Trees, and Random Forest are trained and evaluated using performance metrics like precision, accuracy, recall, F1-score, and ROC-AUC. Data preprocessing techniques like numerical scaling and categorical encoding enhance dataset quality.
+In this present work of research, we can say machine learning and deep learning are the methods to predict the cardiovascular heart diseases. For that we opted Feature selection will be deployed to contribute the disease with the present engineering and model accuracy.Apart from that, we also used different classification methods, such as ANN, SVM, KNN, decision trees, and random forests, to test the effective approach. Every single model will be trained and have to be addressed by using performance metrics like precision, accuracy, recall, F1-score, and ROC-AUC. Moreover, we need to use different data preprocessing techniques to enhance the numerical scaling, and category encoding will be implemented. Finally this study will helps to patient to detect the prediction of heart disease when the situation is in high risk.
 
 ## Methods
 ### Data Acquisition and Sources
