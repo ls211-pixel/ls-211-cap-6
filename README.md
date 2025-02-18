@@ -43,38 +43,48 @@ In this present work of research, we can say machine learning and deep learning 
 - Based on **Bayes Theorem**: 
   \[ P(X \mid Y) = \frac{P(Y)P(Y \mid X)}{P(X)} \]
 - Predicts heart disease based on cholesterol, blood pressure, and age.
+- Naïve Bayes is an algorithm that can be used or predict heart failure by analyzing or predicting based on the cholesterol level,bloodpressure,based on age and other factors.Moreover this Naïve bayes algorithim is based on the Bayes Theorem.This method can control large datasets even it is more problematic or difficult also.Based on the patient condition it calculates the heart failure as well as it is very to implement.This Naïve Bayes is more useful for Feature Engineering
 
 #### 2. Logistic Regression
 - Used for binary classification (Heart Disease: Yes/No).
 - Considers age, gender, BMI, and family history.
+- It is a Statistical method which is the outcome of heart failure is a binary it is well used to predict the yes or no classification.Based on the Patient Demographics like age,gender and there history of their family heart,Low Bp,and BMI these factors include logistic regression model to predict the heart failure.
 
 #### 3. K-Nearest Neighbors (KNN)
 - Uses distance metrics for classification:
   - Euclidean Distance: \( d(a,b) = \sqrt{\sum_{i=1}^{n} (a_i - b_i)^2} \)
   - Manhattan Distance: \( d(a,b) = \sum_{i=1}^{n} |a_i - b_i| \)
+  - It is both a classification algorithm and a machine learning tool. Like naïve, it is fairly simple to implement. However, this KNN will function with both numerical data and data that is categorized according to its current characteristics. Compared to all models, it has a greater accuracy rate. 
+KNN's fundamental definition is that it uses distance metrics to refer to K-nearest neighbors.
+
 
 #### 4. Artificial Neural Networks (ANN)
-- Modeled using connected layers of neurons:
+- The design and functioning of living neural systems to serve as a model for artificial neural networks, or ANNs. They are constructed and built by layers of associated neurons, each of which processes incoming data before transferring it by an activation function.
   - \( z = \sum_{i=1}^{n} w_i y_i + b \)
   - \( a = f(z) \)
 
 #### 5. Random Forest
 - Uses multiple decision trees for classification.
 - Follows **bagging principle** for improved accuracy and reduced variance.
+- A random forest is sometimes referred to as a machine learning algorithm. It uses several decision trees, predicts the patient's data, and determines the development of heart failure depending on many parameters. It comprises of several decision trees and data subsets. 
+This random forest uses the bagging principle. The bootstrap foundation (bagging) minimizes accuracy and volatility, leading to improved patient outcomes.
+
 
 ### Experimental Design
 #### 1. Data Preprocessing
 - Splitting dataset into **training and testing** sets.
 - Converting categorical features into numerical values.
 - Handling missing values and outliers.
-
+It is one of the basic step in Machine learning which increases the quality of data.This dataset is divided into two parts like training and testing,often preprocessing helps the datasets to refine,and more accurate and make effective for the heart disease failure.Catergorical features may definetly convert into numerical values like 0s and 1s.It is also uses different statistical methods like z-score analysis.
 #### 2. Feature Selection
 - Techniques: **Chi-square test, Recursive Feature Elimination**.
 - Key attributes: **Decision Tree, Random Forest**.
+  This Feature selection is to identify the model performance and reduces the flexibility.Chi-square test and recursive feature analysis are the techniques involved in this selection,In this decision tree and random forest are the key attributes for this process,by all these its helps to prevent the heart disease failure. 
 
 #### 3. Model Training and Evaluation
 - Metrics: **F1-score, accuracy, precision, recall, ROC-AUC**.
 - Training models: **KNN, Decision Trees, SVM, ANN, Random Forest**.
+  It is a key phase in this machine learning process to design the algorithm effectively.KNN, a no.of decision tress are very useful for improve rate of model performance.Different training and evaluations like F-1score,accuracy,precision are used to make this model more effectiveness in heart failure prediction.Its also give errors where the model is getting positive or negative.
 
 #### 4. Model Comparison and Selection
 - Comparing accuracy and efficiency of different models.
