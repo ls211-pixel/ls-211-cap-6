@@ -34,9 +34,13 @@ In this present work of research, we can say machine learning and deep learning 
 
 ## Methods
 ### Data Acquisition and Sources
+For this project of Prediction of heart disease dataset is used for this it consists of 918 records each and every patient is individual.In this data set there are 12 different attributes such as Age,Sex,Chestpain,RestingBP,Cholesterol and Fasting bs,MaxHR.
 - The dataset contains **918 records** with **12 attributes** such as Age, Sex, Chest Pain, Resting BP, Cholesterol, and MaxHR.
 - The target variable is binary: **1 (Heart Disease Present)**, **0 (No Heart Disease)**.
-- Dataset obtained from Kaggle: [Kaggle Dataset Link](https://www.kaggle.com/code/sisharaneranjana/machine-learning-to-the-fore-to-save-lives/notebook)
+Heart Disease and the target Variable is a category with binary label that implies either heart disease present (1) or absence (0) of the prediction heart disease.
+A binary classification means it has to be 0s and 1s. Coming to the sources I opted this project and datasets from the Kaggle website.This Kaggle is an open source which can shown in Publicly anyone can use at anytime here it is the link 
+
+ Dataset obtained from Kaggle: [Kaggle Dataset Link](https://www.kaggle.com/code/sisharaneranjana/machine-learning-to-the-fore-to-save-lives/notebook)
 
 ### Mathematical and Statistical Methods
 #### 1. Naïve Bayes
